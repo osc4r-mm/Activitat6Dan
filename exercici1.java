@@ -103,3 +103,4 @@ public class exercici1 {
         scanner.close();
     }
 }
+Este codigo ahora no ira 😈
